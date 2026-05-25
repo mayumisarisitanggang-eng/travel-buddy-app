@@ -30,5 +30,5 @@ Multi-screen React Native app dengan React Navigation.
 <!-- Detail Destinasi --> <img src="./assets/favorit.jpeg" width="250"/>
 
 ## Author
-Nama : [Nama Kamu]
-NIM  : [NIM Kamu]
+Nama : [Mayumi Sari Sitanggang]
+NIM  : [253303622301]

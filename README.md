@@ -24,11 +24,11 @@ Multi-screen React Native app dengan React Navigation.
 3. Scan QR code di Expo Go
 
 ## Screenshots
-<!-- Beranda --> <img src="../assets/beranda.jpeg" width="250"/>
-<!-- Cari --> <img src="../assets/cari.jpeg" width="250"/>
-<!-- Favorit --> <img src="../assets/favorit.jpeg" width="250"/>
-<!-- Detail Destinasi --> <img src="../assets/detail-destinasi.jpeg" width="250"/>
+<!-- Beranda --> <img src="./assets/beranda.jpeg" width="250"/>
+<!-- Cari --> <img src="./assets/cari.jpeg" width="250"/>
+<!-- Favorit --> <img src="./assets/detail-destinasi.jpeg" width="250"/>
+<!-- Detail Destinasi --> <img src="./assets/favorit.jpeg" width="250"/>
 
 ## Author
-Nama : [Mayumi Sari Sitanggang]
-NIM  : [253303622301]
+Nama : [Nama Kamu]
+NIM  : [NIM Kamu]
